@@ -36,7 +36,20 @@ As part of a team, I contributed to:
 - **Database:** Core Data 
 - **Architecture:** MVVM
 
+## 📸 Screenshots
 
+| Greeting | LogIn | Home |
+|-------------|------------|------------------|
+| ![Greeting](Screenshot6.png) | ![LogIn](LogIn.png) | ![Home](Screenshot1.png) |
+
+| Setting | Profile | WishList |
+|----------------|-------------|------------------|
+| ![Profile](prifile.png) | ![WishList](wishList.png) | ![Setting](Setting.png) |
+
+
+## 🎬 App Demo
+
+[▶️ Watch Demo on Google Drive](https://drive.google.com/file/d/1dxZnx6rFvGjHOuXpXAtAilrCLCt3cDuv/view?usp=drive_link)
 
 
 
